@@ -1,5 +1,5 @@
 # Star Wars Repo
-![./image.png](Imagem)
+![imagem](image.png)
 
 Este repositório serve de exemplo para o curso: 
 
